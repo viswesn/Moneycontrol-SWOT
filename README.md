@@ -13,6 +13,7 @@ We have set of Python scripts for various tasks related to stock data and analys
 3. **streamlit-swot.py:**
    - Purpose: Utilizes Python Streamlit to render a webpage for easy viewing of collected SWOT details.
    - Output: Provides a user-friendly interface to access the SWOT analysis data.
+   - Execute: Run this program as **streamlit run streamlit-swot.py** after installing the necessary packages.
 
 4. **MoneyControl.ipynb:**
    - Purpose: Designed to be used in Jupyter notebook, allowing real-time data science operations related to Moneycontrol SWOT data.
